@@ -1,4 +1,4 @@
-<h1>Main account: (https://github.com/Tim-Bolhoeve</h1>
+<h1>Main account: https://github.com/Tim-Bolhoeve</h1>
 
 
 ### This profile's stats:
